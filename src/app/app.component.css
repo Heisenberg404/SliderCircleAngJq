@@ -1,0 +1,9 @@
+#demo .rs-range-color  {
+  background-color: #ff8d00;
+}
+#demo .rs-handle:after  {
+  background-color: #000000;
+}
+#demo .rs-border  {
+  border-color: #ff8d00;
+}
